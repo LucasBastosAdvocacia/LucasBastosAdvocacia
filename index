@@ -1,0 +1,123 @@
+<!DOCTYPE html><html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Advogado especialista em pensão alimentícia e Direito de Família em Goianésia - GO. Atendimento rápido e personalizado." />
+  <title>Lucas Bastos Advocacia | Direito de Família em Goianésia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+    }
+    header {
+      background-color: #093f5c;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #093f5c;
+    }
+    .btn-whatsapp {
+      display: inline-block;
+      background-color: #25D366;
+      color: #fff;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      margin: 1rem 0;
+    }
+    .services ul {
+      list-style: none;
+      padding: 0;
+    }
+    .services li {
+      margin-bottom: 0.5rem;
+    }
+    .testimonial {
+      background-color: #e6f2f8;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-left: 5px solid #093f5c;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+    form input, form textarea {
+      margin-bottom: 1rem;
+      padding: 0.75rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    footer {
+      background-color: #093f5c;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lucas Bastos Advocacia</h1>
+    <p>Advogado Especialista em Pensão Alimentícia e Direito de Família em Goianésia - GO</p>
+    <a class="btn-whatsapp" href="https://wa.me/seunumero" target="_blank">Fale agora pelo WhatsApp</a>
+  </header>  <section class="services">
+    <h2>Serviços Jurídicos com Foco em Resultados</h2>
+    <ul>
+      <li><strong>Pensão Alimentícia:</strong> Cálculo, revisão, cobrança ou exoneração.</li>
+      <li><strong>Guarda e Visitação:</strong> Definição de guarda compartilhada ou unilateral.</li>
+      <li><strong>Divórcio:</strong> Consensual ou litigioso, com partilha de bens.</li>
+      <li><strong>Inventário:</strong> Judicial ou extrajudicial, com agilidade.</li>
+    </ul>
+    <a class="btn-whatsapp" href="https://wa.me/seunumero" target="_blank">Quero falar com um advogado</a>
+  </section>  <section>
+    <h2>Por que escolher o escritório Lucas Bastos Advocacia?</h2>
+    <ul>
+      <li>Atendimento humanizado e direto com o advogado</li>
+      <li>Especialista em Direito de Família e Sucessões</li>
+      <li>Foco na solução prática do seu problema</li>
+      <li>Atendimento presencial em Goianésia e online para todo o Brasil</li>
+    </ul>
+  </section>  <section>
+    <h2>Depoimentos de Clientes</h2>
+    <div class="testimonial">
+      <p>“Fui muito bem atendida. O Dr. Lucas me explicou tudo com clareza e resolveu meu caso de pensão rapidamente.”</p>
+      <small>— Ana Paula, Goianésia - GO</small>
+    </div>
+    <div class="testimonial">
+      <p>“Recomendo demais! Tive todo o suporte no processo de guarda da minha filha.”</p>
+      <small>— Marcos Silva</small>
+    </div>
+  </section>  <section>
+    <h2>Dúvidas Comuns Respondidas</h2>
+    <p><strong>Como funciona a pensão alimentícia em Goianésia?</strong><br />
+    A pensão é fixada com base nas necessidades do filho e na capacidade financeira de quem paga. Pode ser acordada ou definida judicialmente.</p><p><strong>Preciso de advogado para fazer o divórcio?</strong><br />
+Sim, mesmo em casos consensuais, é necessário ter advogado para garantir que os direitos sejam respeitados.</p>
+
+  </section>  <section>
+    <h2>Entre em Contato Agora</h2>
+    <form action="https://formsubmit.co/seuemail@email.com" method="POST">
+      <input type="text" name="nome" placeholder="Seu nome" required />
+      <input type="tel" name="telefone" placeholder="Seu telefone" required />
+      <textarea name="mensagem" placeholder="Digite sua dúvida" rows="4" required></textarea>
+      <button class="btn-whatsapp" type="submit">Enviar</button>
+    </form>
+    <p>Ou clique abaixo para atendimento imediato:</p>
+    <a class="btn-whatsapp" href="https://wa.me/seunumero" target="_blank">Fale agora pelo WhatsApp</a>
+  </section>  <footer>
+    <p>Lucas Bastos Advocacia | OAB/GO XXXXX</p>
+    <p>Atendimento presencial com hora marcada em Goianésia - GO</p>
+  </footer>
+</body>
+</html>
